@@ -6,11 +6,11 @@
 
 
 - 🔭 I’m currently working on  a virtual web design company
-- 🌱 I’m currently learning  javascript frameworks Vuejs and Nodejs  
-- 💬 Ask me about Self care 
+- 🌱 Currently learning  javascript frameworks Vuejs and Nodejs to be precise 
+- 💬 Ask me about Self care  and Audi 
 
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: Given a chance i would remove the stories feature on twitter
+- ⚡ Fun fact: Given a chance i would remove the stories feature on twitter 
 - 🤔 I’m looking for help with  a job 
 
 📫 How to reach me: shyeecodes404@gmail.com or sheilabernicew@gmail.com 
